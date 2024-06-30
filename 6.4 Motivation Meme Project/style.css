@@ -24,11 +24,11 @@ body {
 }
 
 p {
-    color: white;
-    font-size: 1.4rem;
-    text-align: center;
+  color: white;
+  font-size: 1.4rem;
+  text-align: center;
 }
 
 ::-webkit-scrollbar {
-    text-decoration: none;
+  text-decoration: none;
 }
